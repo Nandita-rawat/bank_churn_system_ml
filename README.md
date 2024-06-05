@@ -3,7 +3,7 @@ The data set contains information valuable to predict a bank's churn rate. The d
 
 
 
-Summary of Findings
+**Summary of Findings:**
 
 i.    The Bank has a moderately young age distribution with adults (26-40) and young adults (18-25) making up a total of 64% of the Bank's customer base population.
 
